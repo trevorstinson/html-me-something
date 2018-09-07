@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:trevorstinson/html-me-something.git",
   "author": "Trevor Stinson <trevor@trevorstinson.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
