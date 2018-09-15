@@ -368,7 +368,7 @@ header {
   margin-bottom: 4rem;
 }
 header section {
-  background-image: url(/images/xwing-trench.jpg);
+  background-image: url(../images/xwing-trench.jpg);
   background-size: cover;
   height: 50vw;
 }
