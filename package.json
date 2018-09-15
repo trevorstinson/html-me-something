@@ -8,7 +8,7 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1",
+    "gulp-dart-sass": "^0.9.1",
     "normalize.css": "^8.0.0"
   }
 }
