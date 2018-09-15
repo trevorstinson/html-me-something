@@ -1,7 +1,7 @@
 {
   "name": "html-me-something",
-  "version": "0.1",
-  "description": "LaunchCode LC101, Unit 2, Assignment 1",
+  "version": "1.0",
+  "description": "LaunchCode LC101, Unit 2, Assignment 1. A tribute to Rebel starfighters.",
   "main": "index.js",
   "repository": "git@github.com:trevorstinson/html-me-something.git",
   "author": "Trevor Stinson <trevor@trevorstinson.com>",
