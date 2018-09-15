@@ -343,6 +343,10 @@ body {
   font-weight: 300;
 }
 
+h2 {
+  font-weight: 900;
+}
+
 article h2 {
   color: #d14623;
   text-align: center;

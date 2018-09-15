@@ -6,6 +6,10 @@ body {
     font-weight: 300;
 }
 
+h2 {
+    font-weight: 900;
+}
+
 article {
     @extend %center-column;
     h2 {
