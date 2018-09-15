@@ -437,7 +437,7 @@ footer {
   font-size: 0.8em;
   justify-content: space-around;
   margin-top: 4rem;
-  padding: 0;
+  padding: 2rem 0;
 }
 footer section {
   flex-basis: 20%;
