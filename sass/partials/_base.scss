@@ -6,8 +6,10 @@ body {
     font-weight: 300;
 }
 
-h2 {
+h1, h2 {
     font-weight: 900;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 article {
@@ -42,7 +44,6 @@ header {
             color: $white-80;
             font-size: 14vw;
             font-style: italic;
-            font-weight: 900;
             line-height: 1;
             margin-top: 0;
             padding-top: 12vw;
@@ -93,11 +94,11 @@ header {
 }
 
 footer {
-    font-size: .8em;
     background-color: $blue-squadron;
     color: $white-80;
     display: flex;
     flex-direction: column;
+    font-size: .8em;
     justify-content: space-around;
     margin-top: 4rem;
     padding: 0;
@@ -139,8 +140,8 @@ a {
 }
 
 sup a {
-    text-decoration: none;
     color: $blue-squadron;
+    text-decoration: none;
     #about p & {
         color: $white-80;
     }

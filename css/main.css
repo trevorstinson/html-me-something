@@ -343,8 +343,10 @@ body {
   font-weight: 300;
 }
 
-h2 {
+h1, h2 {
   font-weight: 900;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 
 article h2 {
@@ -380,7 +382,6 @@ header section h1 {
   color: rgba(255, 255, 255, 0.8);
   font-size: 14vw;
   font-style: italic;
-  font-weight: 900;
   line-height: 1;
   margin-top: 0;
   padding-top: 12vw;
@@ -429,11 +430,11 @@ header sup a {
 }
 
 footer {
-  font-size: 0.8em;
   background-color: #487ead;
   color: rgba(255, 255, 255, 0.8);
   display: flex;
   flex-direction: column;
+  font-size: 0.8em;
   justify-content: space-around;
   margin-top: 4rem;
   padding: 0;
@@ -477,8 +478,8 @@ a:hover {
 }
 
 sup a {
-  text-decoration: none;
   color: #487ead;
+  text-decoration: none;
 }
 #about p sup a {
   color: rgba(255, 255, 255, 0.8);
